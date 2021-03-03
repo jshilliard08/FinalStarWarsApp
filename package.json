@@ -1,13 +1,13 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,14 @@
     "watch": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshilliard08/FinalStarWarsApp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jshilliard08/FinalStarWarsApp/issues"
+  },
+  "homepage": "https://github.com/jshilliard08/FinalStarWarsApp#readme"
 }
